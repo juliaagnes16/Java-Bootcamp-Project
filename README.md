@@ -23,7 +23,7 @@ The repository is divided into two main modules:
 ## How to Use This Repository
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Java-Bootcamp-Project.git
+   git clone https://github.com/juliaagnes16/Java-Bootcamp-Project
    ```
 2. Navigate to the module and section you are interested in.
 3. Open and run the Java files to review the solutions and understand the concepts.
